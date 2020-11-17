@@ -6,9 +6,16 @@ categories: [AI, COVID]
 tags: [AI]
 ---
 
+New news articles reported by PITOU
+
+## AI can detect asymptomatic COVID-19 infections in recorded coughs
+[LINK](https://www.weforum.org/agenda/2020/11/artificial-intelligence-model-detects-asymptomatic-covid-19-infections-through-cellphone-recorded-coughs/)
+
+## How to improve cybersecurity for artificial intelligence 
+[LINK](ttps://www.brookings.edu/research/how-to-improve-cybersecurity-for-artificial-intelligence/)
+
 ## Summary
 
-This page consists of articles that are related to artifical intelligence
 
 1. AI can detect asymptomatic COVID-19 infections in recorded coughs
 ```html
