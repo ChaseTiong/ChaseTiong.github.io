@@ -12,7 +12,7 @@ New news articles reported by PITOU
 ## AI can detect asymptomatic COVID-19 infections in recorded coughs
 > [LINK](https://www.weforum.org/agenda/2020/11/artificial-intelligence-model-detects-asymptomatic-covid-19-infections-through-cellphone-recorded-coughs/){:target="_blank"}
 
-<span style="color:blue">## How to improve cybersecurity for artificial intelligence </span>
+## <span style="color:green">How to improve cybersecurity for artificial intelligence </span>
 > [LINK](https://www.brookings.edu/research/how-to-improve-cybersecurity-for-artificial-intelligence/){:target="_blank"}
 
 ## The Militarization of Artificial Intelligence
